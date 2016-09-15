@@ -1,2 +1,5 @@
 # hello-world
-this is a useless description
+
+INTJ, blindly following orders, in order to improve computer skills
+
+done
